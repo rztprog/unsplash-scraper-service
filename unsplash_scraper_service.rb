@@ -4,7 +4,7 @@ require 'nokogiri'
 class UnsplashScraperService
   def call
     # Change just the keyword below
-    keyword = "house"
+    keyword = "house-interior"
 
     url = "https://unsplash.com/s/photos/#{keyword}"
     pictures = []
