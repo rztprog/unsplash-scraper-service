@@ -2,6 +2,11 @@
 
 If you want a random unsplash url image scraper without the Unsplash API in Ruby, you can use this.
 
+## Requirements
+
+1. Gem open-uri
+2. Gem Nokogiri
+
 ## How to use
 
 1. Change the keyword in the rb file to search wathever you want
