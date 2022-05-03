@@ -1,6 +1,6 @@
 # Unsplash-scraper-service
 
-Random unsplash url image scraper without API in Ruby
+If you want a random unsplash url image scraper without the Unsplash API in Ruby, you can use this.
 
 ## How to use
 
